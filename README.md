@@ -1,6 +1,6 @@
 # Pretraining Curricula Enable Selective Fine-tuning — Code Supplement
 
-This repository contains the code for all experiments from the paper.
+This repository contains the code for all experiments from the paper (https://arxiv.org/abs/2607.04846).
 
 ---
 
